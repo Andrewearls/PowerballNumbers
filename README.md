@@ -1,6 +1,6 @@
 
 # PowerballNumbers
-Get the most reasent powerball numbers
+Get the most resent powerball numbers
 
 This is a simple python scraping program that scrapes the powerball.com website for the most recent powerball numbers.
 It then displays the numbers in a simple GUI with wxPython. To be sure that the most recent powerball numbers are out 
